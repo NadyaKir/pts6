@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-%yvsl@!*ivouk@e@fq!nv88^b4*ptg$+-0j50t-uh^)g_x!aa^
 # SECURITY WARNING: don't run with debug turned on in production!
 
 # было False
-DEBUG = False
+DEBUG = True
 # было пусто
 ALLOWED_HOSTS = ['ptsproverka.herokuapp.com', '127.0.0.1']
 
